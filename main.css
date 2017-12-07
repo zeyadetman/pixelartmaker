@@ -1,0 +1,24 @@
+.header, .canvas{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Expletus Sans', cursive;
+}
+
+.header h1{
+    font-family: 'Press Start 2P', cursive !important;    
+}
+
+.pixel{
+    border: 1px solid black;
+    width: 22px ;
+    height: 25px;
+}
+
+#pixels{
+    border-collapse: collapse;
+}
+
+.canvasBox {
+    text-align: -webkit-center;
+    margin: 0 auto;
+}
